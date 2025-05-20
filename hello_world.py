@@ -68,8 +68,19 @@ if __name__ == "__main__":
     # dist.barrier()
 
     # 测试通信组
-    ranks = [0, 1]
-    group = dist.new_group(ranks)
+    # ranks = [0, 1]
+    # group = dist.new_group(ranks)
 
-    if rank in ranks:
-        dist.barrier(group=group)
+    # if rank in ranks:
+    #     dist.barrier(group=group)
+    #     print(f"rank:{rank}")
+    # else:
+    #     time.sleep(10)
+    #     print(f"rank:{rank} not in group")
+
+    #测试多通信组
+    rank = dist.get_rank()
+    for ranks in [[0, 1], [2, 3]]:
+        _group = dist.new_group(ranks)
+        if rank in ranks:
+            group = _group
