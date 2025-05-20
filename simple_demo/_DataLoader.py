@@ -11,5 +11,6 @@ class DataLoader(object):
     def __iter__(self):
         while True:
             length = torch.randint(2, self.max_length,size=(1,))
+            # print(length)
             input_ids = torch.randint(0, self.vocab_size, size=(self.batch_size, length), device='cpu')
-            yield self.next()
+            yield input_ids

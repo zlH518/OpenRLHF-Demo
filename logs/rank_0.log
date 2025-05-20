@@ -1,0 +1,128 @@
+2025-05-20 16:06:43,135 - Rank 0 - INFO - init student rank
+2025-05-20 16:06:43,135 - Rank 0 - INFO - set random seed
+2025-05-20 16:06:43,136 - Rank 0 - INFO - init dataLoader
+2025-05-20 16:06:43,395 - Rank 0 - INFO - init Model
+2025-05-20 16:06:44,360 - Rank 0 - INFO - init optimizer
+2025-05-20 16:06:44,361 - Rank 0 - INFO - input_ids shape:torch.Size([1, 148])
+2025-05-20 16:13:13,078 - Rank 0 - INFO - init student rank
+2025-05-20 16:13:13,079 - Rank 0 - INFO - set random seed
+2025-05-20 16:13:13,079 - Rank 0 - INFO - init dataLoader
+2025-05-20 16:13:13,471 - Rank 0 - INFO - init Model
+2025-05-20 16:13:14,386 - Rank 0 - INFO - init optimizer
+2025-05-20 16:13:14,386 - Rank 0 - INFO - input_ids shape:torch.Size([1, 148])
+2025-05-20 16:13:14,387 - Rank 0 - INFO - zero grad
+2025-05-20 16:13:14,867 - Rank 0 - INFO - send input
+2025-05-20 16:13:15,157 - Rank 0 - INFO - compute probs
+2025-05-20 16:13:15,252 - Rank 0 - INFO - get probs from teacher
+2025-05-20 16:13:15,403 - Rank 0 - INFO - compute loss
+2025-05-20 16:13:15,493 - Rank 0 - INFO - loss back
+2025-05-20 16:13:15,560 - Rank 0 - INFO - optimizer weight
+2025-05-20 16:13:15,560 - Rank 0 - INFO - get all loss
+2025-05-20 16:13:15,786 - Rank 0 - INFO - input_ids shape:torch.Size([1, 40])
+2025-05-20 16:13:15,787 - Rank 0 - INFO - zero grad
+2025-05-20 16:13:15,787 - Rank 0 - INFO - send input
+2025-05-20 16:13:15,788 - Rank 0 - INFO - compute probs
+2025-05-20 16:13:51,978 - Rank 0 - INFO - init student rank
+2025-05-20 16:13:51,979 - Rank 0 - INFO - set random seed
+2025-05-20 16:13:51,979 - Rank 0 - INFO - init dataLoader
+2025-05-20 16:13:52,279 - Rank 0 - INFO - init Model
+2025-05-20 16:13:53,201 - Rank 0 - INFO - init optimizer
+2025-05-20 16:13:53,201 - Rank 0 - INFO - input_ids shape:torch.Size([1, 148])
+2025-05-20 16:13:53,201 - Rank 0 - INFO - zero grad
+2025-05-20 16:13:53,708 - Rank 0 - INFO - send input
+2025-05-20 16:13:54,005 - Rank 0 - INFO - compute probs
+2025-05-20 16:13:54,092 - Rank 0 - INFO - get probs from teacher
+2025-05-20 16:13:54,209 - Rank 0 - INFO - compute loss
+2025-05-20 16:13:54,297 - Rank 0 - INFO - loss back
+2025-05-20 16:13:54,364 - Rank 0 - INFO - optimizer weight
+2025-05-20 16:13:54,364 - Rank 0 - INFO - get all loss
+2025-05-20 16:13:54,586 - Rank 0 - INFO - input_ids shape:torch.Size([1, 40])
+2025-05-20 16:13:54,586 - Rank 0 - INFO - zero grad
+2025-05-20 16:13:54,587 - Rank 0 - INFO - send input
+2025-05-20 16:13:54,587 - Rank 0 - INFO - compute probs
+2025-05-20 16:13:54,588 - Rank 0 - INFO - get probs from teacher
+2025-05-20 16:13:54,589 - Rank 0 - INFO - compute loss
+2025-05-20 16:13:54,590 - Rank 0 - INFO - loss back
+2025-05-20 16:13:54,590 - Rank 0 - INFO - optimizer weight
+2025-05-20 16:13:54,590 - Rank 0 - INFO - get all loss
+2025-05-20 16:13:54,592 - Rank 0 - INFO - input_ids shape:torch.Size([1, 18])
+2025-05-20 16:13:54,592 - Rank 0 - INFO - zero grad
+2025-05-20 16:13:54,593 - Rank 0 - INFO - send input
+2025-05-20 16:13:54,593 - Rank 0 - INFO - compute probs
+2025-05-20 16:13:54,594 - Rank 0 - INFO - get probs from teacher
+2025-05-20 16:13:54,594 - Rank 0 - INFO - compute loss
+2025-05-20 16:13:54,595 - Rank 0 - INFO - loss back
+2025-05-20 16:13:54,596 - Rank 0 - INFO - optimizer weight
+2025-05-20 16:13:54,596 - Rank 0 - INFO - get all loss
+2025-05-20 16:13:54,597 - Rank 0 - INFO - input_ids shape:torch.Size([1, 107])
+2025-05-20 16:13:54,598 - Rank 0 - INFO - zero grad
+2025-05-20 16:13:54,598 - Rank 0 - INFO - send input
+2025-05-20 16:13:54,599 - Rank 0 - INFO - compute probs
+2025-05-20 16:13:54,599 - Rank 0 - INFO - get probs from teacher
+2025-05-20 16:13:54,600 - Rank 0 - INFO - compute loss
+2025-05-20 16:13:54,602 - Rank 0 - INFO - loss back
+2025-05-20 16:13:54,602 - Rank 0 - INFO - optimizer weight
+2025-05-20 16:13:54,603 - Rank 0 - INFO - get all loss
+2025-05-20 16:13:54,604 - Rank 0 - INFO - input_ids shape:torch.Size([1, 94])
+2025-05-20 16:13:54,604 - Rank 0 - INFO - zero grad
+2025-05-20 16:13:54,605 - Rank 0 - INFO - send input
+2025-05-20 16:13:54,605 - Rank 0 - INFO - compute probs
+2025-05-20 16:13:54,606 - Rank 0 - INFO - get probs from teacher
+2025-05-20 16:13:54,606 - Rank 0 - INFO - compute loss
+2025-05-20 16:13:54,607 - Rank 0 - INFO - loss back
+2025-05-20 16:13:54,608 - Rank 0 - INFO - optimizer weight
+2025-05-20 16:13:54,608 - Rank 0 - INFO - get all loss
+2025-05-20 16:13:54,609 - Rank 0 - INFO - input_ids shape:torch.Size([1, 95])
+2025-05-20 16:13:54,610 - Rank 0 - INFO - zero grad
+2025-05-20 16:13:54,610 - Rank 0 - INFO - send input
+2025-05-20 16:13:54,611 - Rank 0 - INFO - compute probs
+2025-05-20 16:13:54,611 - Rank 0 - INFO - get probs from teacher
+2025-05-20 16:13:54,612 - Rank 0 - INFO - compute loss
+2025-05-20 16:13:54,613 - Rank 0 - INFO - loss back
+2025-05-20 16:13:54,613 - Rank 0 - INFO - optimizer weight
+2025-05-20 16:13:54,614 - Rank 0 - INFO - get all loss
+2025-05-20 16:13:54,615 - Rank 0 - INFO - input_ids shape:torch.Size([1, 183])
+2025-05-20 16:13:54,616 - Rank 0 - INFO - zero grad
+2025-05-20 16:13:54,616 - Rank 0 - INFO - send input
+2025-05-20 16:13:54,616 - Rank 0 - INFO - compute probs
+2025-05-20 16:13:54,617 - Rank 0 - INFO - get probs from teacher
+2025-05-20 16:13:54,618 - Rank 0 - INFO - compute loss
+2025-05-20 16:13:54,619 - Rank 0 - INFO - loss back
+2025-05-20 16:13:54,619 - Rank 0 - INFO - optimizer weight
+2025-05-20 16:13:54,619 - Rank 0 - INFO - get all loss
+2025-05-20 16:13:54,621 - Rank 0 - INFO - input_ids shape:torch.Size([1, 20])
+2025-05-20 16:13:54,621 - Rank 0 - INFO - zero grad
+2025-05-20 16:13:54,622 - Rank 0 - INFO - send input
+2025-05-20 16:13:54,622 - Rank 0 - INFO - compute probs
+2025-05-20 16:13:54,623 - Rank 0 - INFO - get probs from teacher
+2025-05-20 16:13:54,623 - Rank 0 - INFO - compute loss
+2025-05-20 16:13:54,624 - Rank 0 - INFO - loss back
+2025-05-20 16:13:54,625 - Rank 0 - INFO - optimizer weight
+2025-05-20 16:13:54,625 - Rank 0 - INFO - get all loss
+2025-05-20 16:13:54,626 - Rank 0 - INFO - input_ids shape:torch.Size([1, 32])
+2025-05-20 16:13:54,627 - Rank 0 - INFO - zero grad
+2025-05-20 16:13:54,627 - Rank 0 - INFO - send input
+2025-05-20 16:13:54,628 - Rank 0 - INFO - compute probs
+2025-05-20 16:13:54,628 - Rank 0 - INFO - get probs from teacher
+2025-05-20 16:13:54,629 - Rank 0 - INFO - compute loss
+2025-05-20 16:13:54,630 - Rank 0 - INFO - loss back
+2025-05-20 16:13:54,630 - Rank 0 - INFO - optimizer weight
+2025-05-20 16:13:54,631 - Rank 0 - INFO - get all loss
+2025-05-20 16:13:54,632 - Rank 0 - INFO - input_ids shape:torch.Size([1, 185])
+2025-05-20 16:13:54,632 - Rank 0 - INFO - zero grad
+2025-05-20 16:13:54,633 - Rank 0 - INFO - send input
+2025-05-20 16:13:54,633 - Rank 0 - INFO - compute probs
+2025-05-20 16:13:54,634 - Rank 0 - INFO - get probs from teacher
+2025-05-20 16:13:54,634 - Rank 0 - INFO - compute loss
+2025-05-20 16:13:54,635 - Rank 0 - INFO - loss back
+2025-05-20 16:13:54,636 - Rank 0 - INFO - optimizer weight
+2025-05-20 16:13:54,636 - Rank 0 - INFO - get all loss
+2025-05-20 16:13:54,637 - Rank 0 - INFO - input_ids shape:torch.Size([1, 134])
+2025-05-20 16:13:54,638 - Rank 0 - INFO - zero grad
+2025-05-20 16:13:54,638 - Rank 0 - INFO - send input
+2025-05-20 16:13:54,639 - Rank 0 - INFO - compute probs
+2025-05-20 16:13:54,639 - Rank 0 - INFO - get probs from teacher
+2025-05-20 16:13:54,640 - Rank 0 - INFO - compute loss
+2025-05-20 16:13:54,641 - Rank 0 - INFO - loss back
+2025-05-20 16:13:54,641 - Rank 0 - INFO - optimizer weight
+2025-05-20 16:13:54,642 - Rank 0 - INFO - get all loss
